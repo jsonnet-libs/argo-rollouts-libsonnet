@@ -2,87 +2,102 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://jsonnet-libs.github.io/argo-rollouts-libsonnet/</loc>
-         <lastmod>2024-08-04</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-04-20</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/argo-rollouts-libsonnet/1.6/</loc>
-         <lastmod>2024-08-04</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-04-20</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/argo-rollouts-libsonnet/1.6/argoproj/</loc>
-         <lastmod>2024-08-04</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-04-20</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/argo-rollouts-libsonnet/1.6/argoproj/v1alpha1/</loc>
-         <lastmod>2024-08-04</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-04-20</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/argo-rollouts-libsonnet/1.6/argoproj/v1alpha1/analysisRun/</loc>
-         <lastmod>2024-08-04</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-04-20</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/argo-rollouts-libsonnet/1.6/argoproj/v1alpha1/analysisTemplate/</loc>
-         <lastmod>2024-08-04</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-04-20</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/argo-rollouts-libsonnet/1.6/argoproj/v1alpha1/clusterAnalysisTemplate/</loc>
-         <lastmod>2024-08-04</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-04-20</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/argo-rollouts-libsonnet/1.6/argoproj/v1alpha1/experiment/</loc>
-         <lastmod>2024-08-04</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-04-20</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/argo-rollouts-libsonnet/1.6/argoproj/v1alpha1/rollout/</loc>
-         <lastmod>2024-08-04</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-04-20</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/argo-rollouts-libsonnet/1.7/</loc>
-         <lastmod>2024-08-04</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-04-20</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/argo-rollouts-libsonnet/1.7/argoproj/</loc>
-         <lastmod>2024-08-04</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-04-20</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/argo-rollouts-libsonnet/1.7/argoproj/v1alpha1/</loc>
-         <lastmod>2024-08-04</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-04-20</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/argo-rollouts-libsonnet/1.7/argoproj/v1alpha1/analysisRun/</loc>
-         <lastmod>2024-08-04</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-04-20</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/argo-rollouts-libsonnet/1.7/argoproj/v1alpha1/analysisTemplate/</loc>
-         <lastmod>2024-08-04</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-04-20</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/argo-rollouts-libsonnet/1.7/argoproj/v1alpha1/clusterAnalysisTemplate/</loc>
-         <lastmod>2024-08-04</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-04-20</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/argo-rollouts-libsonnet/1.7/argoproj/v1alpha1/experiment/</loc>
-         <lastmod>2024-08-04</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-04-20</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/argo-rollouts-libsonnet/1.7/argoproj/v1alpha1/rollout/</loc>
-         <lastmod>2024-08-04</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-04-20</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/argo-rollouts-libsonnet/1.8/</loc>
+         <lastmod>2025-04-20</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/argo-rollouts-libsonnet/1.8/argoproj/</loc>
+         <lastmod>2025-04-20</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/argo-rollouts-libsonnet/1.8/argoproj/v1alpha1/</loc>
+         <lastmod>2025-04-20</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/argo-rollouts-libsonnet/1.8/argoproj/v1alpha1/analysisRun/</loc>
+         <lastmod>2025-04-20</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/argo-rollouts-libsonnet/1.8/argoproj/v1alpha1/analysisTemplate/</loc>
+         <lastmod>2025-04-20</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/argo-rollouts-libsonnet/1.8/argoproj/v1alpha1/clusterAnalysisTemplate/</loc>
+         <lastmod>2025-04-20</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/argo-rollouts-libsonnet/1.8/argoproj/v1alpha1/experiment/</loc>
+         <lastmod>2025-04-20</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/argo-rollouts-libsonnet/1.8/argoproj/v1alpha1/rollout/</loc>
+         <lastmod>2025-04-20</lastmod>
     </url>
 </urlset>
